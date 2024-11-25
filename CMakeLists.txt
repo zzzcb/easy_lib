@@ -20,4 +20,5 @@ set(CMAKE_MODULE_PATH
 include(Dependencies)
 
 # 6.子文件夹配置
-#add_subdirectory(lib)
+add_subdirectory(lib)
+add_subdirectory(example)
